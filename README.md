@@ -1,0 +1,2 @@
+# MiniDayz-Korean-Localization
+init
